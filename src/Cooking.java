@@ -12,7 +12,7 @@ abstract class CookingRecipe {
     }
 
     private void prepareIngredients() {
-        System.out.println("Preparing ingredients...");
+        System.out.println("Preparing ingredients");
     }
 
     protected abstract void preheatCookingEquipment();
